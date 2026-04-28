@@ -1,5 +1,7 @@
 # Maze solver robot
 
+### NOTE: this project was made in Jul/2023. 
+
 ## First Idea
 * We want the robot to be small in size because the maze is small, and we want it to solve the maze quickly. Initially, we planned to use a blank PCB and opted to use individual chips instead of complete modules. For instance, we used an ATmega chip instead of the whole Arduino board. To increase its speed, we started by using coreless motors, which can reach speeds of up to 40000 RPM (Revolutions Per Minute). However, we found that the torque provided by these motors was insufficient. and later on this board you can see all the problems we faced
 
