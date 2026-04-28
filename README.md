@@ -159,8 +159,8 @@ In the design we can see 4 dots We were supposed to use the Arduino uno to progr
 </div>
 
 ## MMS Simulation
-* [video shows the simulation of the MMS]( 
-*[here is the code for the simulation, we used the flood FIll algorithm as it chose the nearest gate to the point](https://trello.com/c/0bgn6luW/47-https-drivegooglecom-drive-folders-1y7vlnpkyx210qo7rciskckylsqyfgxi)
+* [video shows the simulation of the MMS](https://www.youtube.com/watch?v=oT04eXyF9pI) 
+* [here is the code for the simulation, we used the flood FIll algorithm as it chose the nearest gate to the point](https://trello.com/c/0bgn6luW/47-https-drivegooglecom-drive-folders-1y7vlnpkyx210qo7rciskckylsqyfgxi)
 
 
 ## Cost
